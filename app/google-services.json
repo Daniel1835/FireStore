@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904155021919",
+    "project_id": "firestore-b2f4c",
+    "storage_bucket": "firestore-b2f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904155021919:android:e0bd4f34c471d168b9d1ea",
+        "android_client_info": {
+          "package_name": "com.f55121075_daniel_irwansyah.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904155021919-r0asfu3tum2nnl4vq7jn6fo8bbo232q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8VlCG3EvXRMdEd7ZW1sVTNen_cPc1mQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904155021919-r0asfu3tum2nnl4vq7jn6fo8bbo232q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
